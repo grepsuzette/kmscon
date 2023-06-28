@@ -663,7 +663,7 @@ static palette_t def_palette = {
 	[TSM_COLOR_LIGHT_CYAN]    = {   0, 255, 255 }, /* light cyan */
 	[TSM_COLOR_WHITE]         = { 255, 255, 255 }, /* white */
 
-	[TSM_COLOR_FOREGROUND]    = { 229, 229, 229 }, /* light grey */
+	[TSM_COLOR_FOREGROUND]    = { 178, 178, 178 }, /* light grey */
 	[TSM_COLOR_BACKGROUND]    = {   0,   0,   0 }, /* black */
 };
 
